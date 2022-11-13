@@ -1,1 +1,2 @@
 # Time-Series-Modeling
+The goal of this analysis was to use a time series model to predict trends in company revenue. It costs more money for the company to recruit new customers than to retain old customers. Looking at previous revenue trends can help predict when revenue is likely to be at highs and lows in the upcoming year. This information can help marketing teams know when to focus on marketing that may increase customer retention and company revenue. 
